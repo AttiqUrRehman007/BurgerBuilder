@@ -2,7 +2,8 @@
 
 #### How to run this
 * Open your terminal
-* git clone https://github.com/AttiqUrRehman007/react
+* git clone https://github.com/AttiqUrRehman007/BurgerBuilder.git
+
 * cd react
 * npm install
 * npm start
