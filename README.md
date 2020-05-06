@@ -4,7 +4,7 @@
 * Open your terminal
 * git clone https://github.com/AttiqUrRehman007/BurgerBuilder.git
 
-* cd react
+* cd BurgerBuilder
 * npm install
 * npm start
 * You can access here http://localhost:3000
