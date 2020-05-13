@@ -1,8 +1,7 @@
-.Input{
+.Input {
     width: 100%;
     padding: 10px;
     box-sizing: border-box;
-
 }
 
 .Label {
@@ -11,9 +10,9 @@
     margin-bottom: 8px;
 }
 
-.InputElement{
+.InputElement {
     outline: none;
-    border: 1px solid #eeeeee;
+    border: 1px solid #ccc;
     background-color: white;
     font: inherit;
     padding: 6px 10px;
@@ -24,5 +23,10 @@
 
 .InputElement:focus {
     outline: none;
-    background-color: #eeeeee;
+    background-color: #ccc;
+}
+
+.Invalid {
+    border: 1px solid red;
+    background-color: #FDA49A;
 }
